@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "Ehsanam1773",
+  "repo": "container-j3fm4u",
+  "name": "Ehsanam1773",
+  "email": "162577142+Ehsanam1773@users.noreply.github.com",
+}
